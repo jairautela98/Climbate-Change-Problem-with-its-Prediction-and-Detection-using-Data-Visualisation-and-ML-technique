@@ -1,0 +1,2 @@
+# Climbate-Change-Problem-with-its-Prediction-and-Detection-using-Data-Visualisation-and-ML-technique
+Climate Change &amp; ML (Summary) ML predicts climate risks (e.g., extreme weather) and detects anomalies like deforestation using satellite data. Visualization tools decode these complex trends for policymakers. The future lies in precision AI forecasting and real-time, automated mitigation strategies.
